@@ -1,25 +1,15 @@
 package encapsulation_package;
 
-public class Encapsulation_Study {
 
-	private String name;
-	private int salary;
+public class Encapsulation_Study2 {
 	
-	
-
+	private int age=30;
+	private String name="anju";
+	public int getAge() {
+		return age;
+	}
 	public String getName() {
 		return name;
 	}
 
-	public void setName(String name) {
-		this.name = name;
-	}
-
-	public int getSalary() {
-		return salary;
-	}
-
-	public void setSalary(int salary) {
-		this.salary = salary;
-	}
 }
