@@ -1,6 +1,6 @@
 package encapsulation_package;
 
-public class Encapsulation_Study {
+public class Employee_Class1 {
 
 	private String name;
 	private int salary;

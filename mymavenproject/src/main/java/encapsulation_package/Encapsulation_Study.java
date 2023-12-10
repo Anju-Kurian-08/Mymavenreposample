@@ -1,7 +1,7 @@
 package encapsulation_package;
 
 
-public class Encapsulation_Study2 {
+public class Encapsulation_Study {
 	
 	private int age=30;
 	private String name="anju";
